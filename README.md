@@ -32,8 +32,6 @@ Address must be for Union Network `Union...`
 You can add Union to Keplr in this link
 https://chains.keplr.app/
 
-![image](https://github.com/user-attachments/assets/a38dca31-16d8-4d84-ac03-b69c9221ba66)
-
 
 ## Contribute to Ceremony
 
