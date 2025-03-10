@@ -18,6 +18,7 @@ mkdir -p ceremony && sudo docker pull ghcr.io/unionlabs/union/mpc-client:latest 
 When you Enter the command in terminal, You head to the next step in Ceremony page to `Generate Secret`
 * You can trun off your device for now
 * You must be online at your turn when the queue ends
+
 ![Screenshot_359](https://github.com/user-attachments/assets/33608bdb-e404-48de-9ec0-3b4f8d0012ad)
 
 ## Generate a Secret
@@ -35,11 +36,12 @@ https://chains.keplr.app/
 
 
 ## Contribute to Ceremony
-* If you have code, Enter and start the ceremony
-* If you don't have code, When the ceremony opens to the public, you will get priority in the queue
-* You will receive an email 12-18 hours before the public phase begins
-* You will need to leave your computer online and awake
+
+![image](https://github.com/user-attachments/assets/b53fdde1-8d5d-4936-a816-f382d60625d3)
+
+* You can trun off your device for now
+* You must be online at your turn when the queue ends
 * You should not close `Browser` and `Terminal` while contributing to Ceremony
 * Wait for your computer to contribute to the ceremony. As long as the terminal shows “Awaiting orders…”, you’re still in queue.
 * Once your computer begins contributing, the browser will switch to “starting contribution”, followed by “contributing”, and finally “verifying”. As long as all necessary programs are running, and the browser tab shows one of these messages, your computer is contributing.
-* The average time for all phases is 5-30 minutes, and can take as long as 1 hour.
+* The average time for each contribution is 5-30 minutes, and can take as long as 1 hour.
