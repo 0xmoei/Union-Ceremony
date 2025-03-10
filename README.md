@@ -16,8 +16,8 @@ mkdir -p ceremony && sudo docker pull ghcr.io/unionlabs/union/mpc-client:latest 
 
 ## Run the command in Ubuntu Terminal
 When you Enter the command in terminal, You head to the next step in Ceremony page to `Generate Secret`
-* You should not close the Terminal & Browser during the Contribution of Ceremony
-
+* You can trun off your device for now
+* You must be online at your turn when the queue ends
 ![Screenshot_359](https://github.com/user-attachments/assets/33608bdb-e404-48de-9ec0-3b4f8d0012ad)
 
 ## Generate a Secret
